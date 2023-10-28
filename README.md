@@ -1,3 +1,5 @@
+本文首发在：[一芜蓬蒿](https://penghao.site/post/zai-spring-boot-zhong-shi-yong-jian-rong-grpc-de-dubbo/)
+
 # 在 Spring Boot 中使用兼容 gRPC 的 Dubbo
 
 ## 背景
@@ -152,20 +154,3 @@ F:.
 
 3. 依次启动 EmbeddedZookeeper、ProviderApplication、ConsumerApplication
    ![image-20231028113841083](https://artemisia-1307592663.cos.ap-guangzhou.myqcloud.com/202310281138139.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
